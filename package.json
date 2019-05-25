@@ -18,7 +18,7 @@
     "concurrently": "^2.2.0",
     "lite-server": "^2.2.2",
     "typescript": "^2.0.3",
-    "typings": "^1.4.0"
+    "typings": "^2.1.1"
   },
   "dependencies": {
     "@angular/common": "^2.0.1",
