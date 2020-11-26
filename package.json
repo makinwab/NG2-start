@@ -33,7 +33,7 @@
     "@angular/upgrade": "^8.2.14",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^6.5.3",
-    "systemjs": "^0.19.38",
+    "systemjs": "^6.8.0",
     "zone.js": "^0.10.2"
   }
 }
