@@ -21,7 +21,7 @@
     "typings": "^2.1.1"
   },
   "dependencies": {
-    "@angular/common": "^2.0.1",
+    "@angular/common": "^11.2.13",
     "@angular/compiler": "^8.2.14",
     "@angular/core": "^2.0.1",
     "@angular/forms": "^2.0.1",
