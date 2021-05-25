@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.0.0",
+    "concurrently": "^6.2.0",
     "lite-server": "^2.2.2",
     "typescript": "^3.7.2",
     "typings": "^2.1.1"
