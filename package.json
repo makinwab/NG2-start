@@ -29,7 +29,7 @@
     "@angular/platform-browser": "^2.0.1",
     "@angular/platform-browser-dynamic": "^8.2.14",
     "core-js": "^3.4.7",
-    "@angular/router": "^8.2.14",
+    "@angular/router": "^12.1.1",
     "@angular/upgrade": "^8.2.14",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^6.5.3",
